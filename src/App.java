@@ -16,8 +16,8 @@ public class App {
         String name;
         lectura.nextLine();//limpieza de buffer
         System.out.println("Ingrese  un nombre ");
-        name = lectura.nextLine();
-        System.out.println("El nombre ingresado fue ");
+        name= lectura.nextLine();
+        System.out.println("El nombre ingresado fue "+name);
 
 
         lectura.close();
