@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Ciclos {
     
-    public static void main() {
+    public static void main(String[] args) {
         Scanner lectura=new Scanner(System.in);
         int precio ,cantidad ,contador ,subtotal ,acomulador ;
         contador=0; acomulador=0;

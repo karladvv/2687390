@@ -1,7 +1,7 @@
 import java.util.random.*;
 
 public class Reto3 {
-    public static void main() {
+    public static void main(String[] args) {
 
  Random numAleatorio = new Random();
 

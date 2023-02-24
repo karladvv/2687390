@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Budget {
-    public static void main() {
+    public static void main(String[] args) {
         Scanner lectura = new Scanner(System.in);
         double ancho, largo, presupuesto, area;
         System.out.println("Ingrese el ancho");
